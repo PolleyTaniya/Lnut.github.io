@@ -10,3 +10,4 @@ I’ve recently completed the **AI Programming with Python Nanodegree** from Uda
 
 This GitHub is where I share what I’m learning, building, and exploring.
 
+![Taniya's Profile Picture](docs/assets/dice.png)
