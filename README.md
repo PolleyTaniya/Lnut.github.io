@@ -10,8 +10,8 @@ I’ve recently completed the **AI Programming with Python Nanodegree** from Uda
 
 This GitHub is where I share what I’m learning, building, and exploring.
 
-![Taniya's Profile Picture](docs/assets/dice.png)
+![Taniya's Profile Picture](docs/assets/dice.png)\
 While I was studying Metric Space, I came across this beautiful theorem.
 
-[Download PDF]({{ site.baseurl }}/https://github.com/PolleyTaniya/Lnut.github.io/blob/main/Metric_space_q1.pdf)
+[Download PDF](https://github.com/PolleyTaniya/Lnut.github.io/blob/main/Metric_space_q1.pdf)
 
