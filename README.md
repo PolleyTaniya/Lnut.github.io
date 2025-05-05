@@ -13,7 +13,7 @@ This GitHub is where I share what I’m learning, building, and exploring.
 ![Taniya's Profile Picture](docs/assets/dice.png)\
 While I was studying Metric Space, I came across this beautiful theorem.
 
-<a href="https://raw.githubusercontent.com/username/Lnut.github.io/main/Metric_space_q1.pdf" download="Metric_space_q1.pdf">Download PDF</a>
+<a href="https://raw.githubusercontent.com/PolleyTaniya/Lnut.github.io/main/Metric_space_q1.pdf" download="Metric_space_q1.pdf">Download PDF</a>
 
 
 
