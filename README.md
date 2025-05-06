@@ -15,7 +15,13 @@ While I was studying Metric Space, I came across this beautiful theorem.
 
 <a href="{{ site.baseurl }}/Metric_space_q1.pdf" download>Download PDF</a>
 
+### 🚀 My Projects
 
+1. **[Image Classifier that can classify flower varieties](https://github.com/PolleyTaniya/aws_udacity_project_app)**  
+   
+---
+
+Thanks for checking out my work!
 
 
 
