@@ -1,2 +1,5 @@
 title: "Uncertainty is a principle!"
-theme: jekyll-theme-hyde
+remote_theme: poole/hyde
+
+plugins:
+  - jekyll-remote-theme
