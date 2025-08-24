@@ -1,5 +1,28 @@
 title: "Uncertainty is a principle!"
-remote_theme: poole/hyde
+description: "Researcher in Machine Learning, Physics, and Uncertainty Quantification."
 
+# Use Minimal Mistakes as a remote theme
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Plugins required by Minimal Mistakes (and supported on GitHub Pages)
 plugins:
-  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-seo-tag
+
+# Author details
+author:
+  name: "Your Name"
+  bio: "PhD Student | Researcher in ML & Physics"
+  location: "Your Institute / University"
+  email: "youremail@example.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+
+# Theme settings
+minimal_mistakes_skin: "default" # other options: air, aqua, contrast, dark, dirt, neon, mint, sunrise
+logo: "/assets/images/dice.png"
