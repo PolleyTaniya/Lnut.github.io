@@ -1,3 +1,16 @@
 title: "Uncertainty is a principle!"
 remote_theme: "academicpages/academicpages"
 logo: "/assets/images/dice.png"
+
+# Site Author Info
+author:
+  name: "Your Full Name"
+  role: "PhD Student / Researcher"
+  institute: "Your Institute / University"
+  email: "youremail@example.com"
+  linkedin: "https://www.linkedin.com/in/yourprofile/"
+  github: "https://github.com/yourusername"
+  twitter: "https://twitter.com/yourhandle"
+
+# Optional site description (shows up in search engines & sidebar)
+description: "Researcher in Machine Learning, Uncertainty Quantification, and Physics-Inspired AI."
