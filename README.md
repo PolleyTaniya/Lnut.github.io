@@ -1,4 +1,7 @@
-> “Individuals vary, but percentages remain constant. So says the statistician."  - The Sign of Four\
+> “Individuals vary, but percentages remain constant. So says the statistician."  - The Sign of Four
+
+\
+\
 <img src="docs/assets/dice.png" width="300" height="200" alt="Taniya's Profile Picture">\
 ## 👋 About Me
 Hi, I'm Taniya!  
